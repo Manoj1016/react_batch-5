@@ -1,0 +1,19 @@
+h2{
+	color: red;
+	text-align: center;
+}
+#car{
+	color: blue;
+	text-align: right;
+}
+.cycle{
+color: violet;
+background-color: blue;
+}
+h1,h2,h3,h4{
+	color: blue;
+	text-align: center;
+}
+*{
+	text-align: right;
+}
