@@ -1,0 +1,38 @@
+{
+	"details":{
+		"image":"manoj.png",
+		"name": "manoj",
+		"email": "mk@gmail.com",
+		"phno": 8594917029,
+		"address":"vzngrm,makkuva"
+	},
+	"hobbies":[
+		"playing cricket","playing PubG","Reading Books"
+	]
+	,
+	"Languages Known":[
+		"hindi","english","telugu","odia"
+	],
+	"Career Objective":[
+		"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company."
+	],
+	
+	"Educational Details":[
+		{
+		"mediate":"10th",	
+		"name":"Green Valley",
+		"percentage":"8.6cgpa"
+	},
+			{
+		"mediate":"inter",		
+		"name":"RGDA jnr clg",
+		"percentage":"70%"
+	},
+			{
+		"mediate":"Btech",		
+		"name":"TPIST",
+		"percentage":"7.6cgpa"
+	}
+	],
+	"Declaration":["mahh msmjs msjjs msjjs snhs bs sh shshbs jhsgtstgs nabahhsg mnnsji bahggsy jannahs nhs"]
+}

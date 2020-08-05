@@ -1,0 +1,30 @@
+{
+	"details":{
+		"name": "manoj",
+		"email": "mk@gmail.com",
+		"phno": 7867785586,
+		"address":"kpt rgda"
+	},
+	"favmovies":[
+		"v","rangam","bahubali"
+
+		],
+	"favcricketers":[
+		{
+		"name":"dhoni",
+		"bstyle":"lefthand"
+		},
+		{
+		"name":"raina",
+		"bstyle":"lefthand"
+		},
+		{
+		"name":"rohit",
+		"bstyle":"righthand"
+		},
+		{
+		"name":"yuvi",
+		"bstyle":"lefthand"
+		}
+      ]
+}

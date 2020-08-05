@@ -1,19 +1,8 @@
-h2{
-	color: red;
-	text-align: center;
+.main-div{
+	display: flex;
+	flex-wrap: wrap;
 }
-#car{
-	color: blue;
-	text-align: right;
-}
-.cycle{
-color: violet;
-background-color: blue;
-}
-h1,h2,h3,h4{
-	color: blue;
-	text-align: center;
-}
-*{
-	text-align: right;
+.sub-div{
+  border: 2px solid red;
+  
 }

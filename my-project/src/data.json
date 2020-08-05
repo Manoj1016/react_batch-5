@@ -1,0 +1,24 @@
+{
+	"details":[
+		{
+			"profile":{
+				"name":"manoj kumar",
+				"role":"student",
+				"phno":"65678865577",
+				"email":"mk@gmail.com"
+			},
+			"careerobj":"i want to be a SE"
+
+		},
+		{
+			"profile":{
+				"name":"ravi",
+				"role":"student",
+				"phno":"65988865577",
+				"email":"ravi@gmail.com"
+
+		},
+		"careerobj":"i want to be a hacker"
+	}
+	]
+}

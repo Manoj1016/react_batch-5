@@ -1,0 +1,38 @@
+.email{
+	background-color: blue;
+}
+#name{
+	background-color: red;
+	color: white;
+}
+.parent-div{
+	border: 2px solid #ddd;
+}
+.Basimargin:{
+	border: 2px solid #ddd;
+	margin: 5px;
+}
+	
+
+.Movie-fav{
+border: 2px solid #ddd;
+	margin: 5px;
+}
+.cric-fav{
+		border: 2px solid #ddd;
+	margin: 5px;
+
+
+}
+table,td,tr,th{
+	border: 2px solid #ddd;
+	border-collapse: collapse;
+}
+.parent-div{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.profile-image{
+	height: 10%, width=10%;
+}
